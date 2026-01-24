@@ -19,7 +19,7 @@ The download includes:
 If you would like to cite this paper, please use the following reference:
 
 ```bibtex
-@inproceedings{author2025slmrag,
+@inproceedings{author2026slmrag,
 title={A Novel Approach Based on Integrating Small Language Models and Retrieval-Augmented Generation for Medical Question Answering},
 author={Nguyen, Gia Bao and Le, Quang Hung}, 
 year ={2026}}
