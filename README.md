@@ -11,8 +11,6 @@ The download includes:
 - `ori_pqal.json` 
 - `ori_pqau.json`
 
-### Abstract
-This paper proposes a novel approach which combines Small Language Models (SLMs) with Retrieval-Augmented Generation (RAG) in the medical field in order to provide accurate and comprehensible information. Our method extracts relevant evidence from external knowledge (e.g., PubMed and clinical guidelines) and converts them into vector embeddings which are used for high-fidelity semantic retrieval. The SLM subsequently synthesizes the retrieved evidence into fluent, context-aware responses. We conducted our experiments on the PubMed benchmark dataset, the results show an competitive performance in terms of answer accuracy and computational efficiency compared to larger language models. Moreover, the proposed method supports efficient domain knowledge updates without the need for extensive retraining.
 
 ### Paper
 (Link paper will be deployed)
