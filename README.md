@@ -12,7 +12,7 @@ The download includes:
 - `ori_pqau.json`
 
 ### Abstract
-This paper proposes a novel approach that integrates small language models (SLMs) with retrieval-augmented generation (RAG) to deliver precise and comprehensible medical information. Our method retrieves relevant evidence from external medical knowledge (e.g., PubMed and clinical guidelines), converting them into vector embeddings to enable high-fidelity semantic retrieval. An SLM is then employed to synthesize the retrieved evidence into fluent, context-aware responses. Extensive experiments conducted on the PubMedQA benchmark dataset demonstrate that the proposed method not only enhances answer accuracy, but also improves computational efficiency compared to larger language models. Additionally, the approach supports seamless domain knowledge updates without requiring extensive retraining.
+This paper proposes a novel approach which combines Small Language Models (SLMs) with Retrieval-Augmented Generation (RAG) in the medical field in order to provide accurate and comprehensible information. Our method extracts relevant evidence from external knowledge (e.g., PubMed and clinical guidelines) and converts them into vector embeddings which are used for high-fidelity semantic retrieval. The SLM subsequently synthesizes the retrieved evidence into fluent, context-aware responses. We conducted our experiments on the PubMed benchmark dataset, the results show an competitive performance in terms of answer accuracy and computational efficiency compared to larger language models. Moreover, the proposed method supports efficient domain knowledge updates without the need for extensive retraining.
 
 ### Paper
 (Link paper will be deployed)
@@ -24,4 +24,4 @@ If you would like to cite this paper, please use the following reference:
 @inproceedings{author2025slmrag,
 title={A Novel Approach Based on Integrating Small Language Models and Retrieval-Augmented Generation for Medical Question Answering},
 author={Nguyen, Gia Bao and Le, Quang Hung}, 
-year ={2025}}
+year ={2026}}
