@@ -4,7 +4,7 @@
 ### Download Large Files
 Due to GitHub file size limitations, please download the following dataset files from our Google Drive:
 
-- **All Dataset Files**: [Download from Google Drive](https://drive.google.com/drive/folders/1wvsLcidxxceB7LyCs3b3T4tfC4stptOy?usp=share_link)
+- **All Dataset Files**: [Download from Google Drive](https://drive.google.com/drive/folders/1z6UxXdJfhxuvuVrqOpjkYMR00ALLy8VO)
 
 The download includes:
 - `ori_pqaa.json`
